@@ -79,10 +79,45 @@ img {
 }
 
 /*=============== HEADER & NAV ===============*/
+.header{
+  position: fixed;
+  width: 100%;
+  top:0;
+  left:0;
+background-color: transparent;
+z-index: var(--z-fixed);
+}
+.nav{
+  position: relative;
+  height: var(--header-height);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 
+}
+.nav__logo{
+  color: var(--black-color);
+  font-weight: var(--font-semi-bold);
+}
+.nav__logo:hover{
+  color:beige;
+  transition: all 0.3s ease;
+}
 
+.nav__close,
+.nav__toogle,
+.nav__actions{
+display: flex;
+font-size: 1.25rem;
+cursor: pointer;
+}
+.nav__actions{
+  column-gap: .5rem;
+}
 /* Navigation for mobile devices */
-
+@media screen and (max-width: 1150px){
+  
+}
 
 /* Show menu */
 
