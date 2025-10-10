@@ -105,7 +105,7 @@ z-index: var(--z-fixed);
 }
 
 .nav__close,
-.nav__toogle,
+.nav__toggle,
 .nav__actions{
 display: flex;
 font-size: 1.25rem;
