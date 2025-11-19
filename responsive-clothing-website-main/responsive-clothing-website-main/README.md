@@ -20,7 +20,7 @@ A modern, responsive clothing website built with **HTML, CSS, and JavaScript**, 
 
 ## 🚀 Demo
 
-👉 [Live Demo](#) *(Add your deployed link here)*
+👉 [Live Demo](#) *(https://clothingvercelco.vercel.app/)*
 
 ---
 
