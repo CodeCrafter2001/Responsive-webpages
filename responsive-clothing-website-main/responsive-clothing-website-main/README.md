@@ -1,6 +1,7 @@
 # 👗 Responsive Clothing Website
 
-![Project Banner](responsive-clothing-website-main\assets\img\homePage.png)
+![Project Banner](assets/img/homePage.png)
+
 
 A modern, responsive clothing website built with **HTML, CSS, and JavaScript**, featuring smooth animations and interactive components powered by **Swiper.js** and **ScrollReveal**.
 
@@ -35,5 +36,5 @@ A modern, responsive clothing website built with **HTML, CSS, and JavaScript**, 
 
 ---
 
-## 📂 Project Structure
+
 
