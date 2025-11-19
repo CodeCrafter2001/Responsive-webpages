@@ -1,9 +1,39 @@
-# Responsive Clothing Website
+# 👗 Responsive Clothing Website
 
-- Responsive Clothing Website Design Using HTML CSS And JavaScript
-- Contains sliding images with the Swiper Js library
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+![Project Banner](responsive-clothing-website-main\assets\img\homePage.png)
 
+A modern, responsive clothing website built with **HTML, CSS, and JavaScript**, featuring smooth animations and interactive components powered by **Swiper.js** and **ScrollReveal**.
 
-![preview img](/preview.png)
+---
+
+## ✨ Features
+
+- 📱 **Responsive Design** — Works seamlessly across desktop, tablet, and mobile devices.
+- 🎨 **Modern UI/UX** — Clean layout with intuitive navigation.
+- 🖼️ **Image Slider** — Product showcases using **Swiper.js**.
+- 🌟 **Scroll Animations** — Engaging reveal effects with **ScrollReveal.js**.
+- 🛍️ **Clothing Catalog** — Organized sections for men’s, women’s, and accessories.
+- ⚡ **Fast & Lightweight** — Pure HTML, CSS, and vanilla JavaScript.
+
+---
+
+## 🚀 Demo
+
+👉 [Live Demo](#) *(Add your deployed link here)*
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology   | Purpose                          |
+|--------------|----------------------------------|
+| HTML5        | Structure of the website         |
+| CSS3         | Styling and responsive design    |
+| JavaScript   | Interactivity and logic          |
+| Swiper.js    | Product sliders & carousels      |
+| ScrollReveal | Scroll-based animations          |
+
+---
+
+## 📂 Project Structure
+
