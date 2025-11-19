@@ -35,7 +35,7 @@ let swiperHome = new Swiper('.home__swiper', {
     nextEl: '.swiper-button-next',
     prevEl: '.swiper-button-prev',
   },
-  breakPoints:{
+  breakpoints:{
     768:{
         slidesPerView: 3,
         centeredSlides: 'auto',
@@ -65,5 +65,5 @@ const sr= ScrollReveal({
 sr.reveal(`.home__swiper, .home__footer`)
 sr.reveal(`.home__circle`, {scale: 1.5, delay: 300})
 sr.reveal(`.home__subcircle`, {scale: 1.5, delay: 500})
-sr.reveal(`.home__title`, {scale: 1, origin: 'bottonm', delay: 1200})
-sr.reveal(`.swiper-button-prev, .swiper-button-next`, { origin: 'bottonm'})
+sr.reveal(`.home__title`, {scale: 1, origin: 'bottom', delay: 1200})
+sr.reveal(`.swiper-button-prev, .swiper-button-next`, { origin: 'bottom'})
